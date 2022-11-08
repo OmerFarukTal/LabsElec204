@@ -1,0 +1,28 @@
+Command line:
+   BirSlice_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  5940
+
+Thu Apr 21 22:02:39 2022
+
+
+ Elaboration Time: 0.21875 sec
+
+ Current Memory Usage: 5511.84 Meg
+
+ Total Signals          : 41
+ Total Nets             : 16
+ Total Signal Drivers   : 15
+ Total Blocks           : 6
+ Total Primitive Blocks : 3
+ Total Processes        : 10
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 377
+
+ Total Simulation Time: 0.34375 sec
+
+ Current Memory Usage: 5511.84 Meg
+
+Thu Apr 21 22:03:04 2022
+

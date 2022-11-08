@@ -1,0 +1,10 @@
+EN fulladder NULL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FullAdder.vhd" sub00/vhpl02 1650974188
+EN fourbitalu NULL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FourBitALU.vhd" sub00/vhpl08 1650974196
+AR arithmeticunit behavioral "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/ArithmeticUnit.vhd" sub00/vhpl05 1650974191
+AR alu behavioral "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/ALU.vhd" sub00/vhpl07 1650974195
+AR logicunit behavioral "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.vhd" sub00/vhpl01 1650974193
+EN logicunit NULL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.vhd" sub00/vhpl00 1650974192
+AR fourbitalu behavioral "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FourBitALU.vhd" sub00/vhpl09 1650974197
+EN arithmeticunit NULL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/ArithmeticUnit.vhd" sub00/vhpl04 1650974190
+AR fulladder behavioral "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FullAdder.vhd" sub00/vhpl03 1650974189
+EN alu NULL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/ALU.vhd" sub00/vhpl06 1650974194

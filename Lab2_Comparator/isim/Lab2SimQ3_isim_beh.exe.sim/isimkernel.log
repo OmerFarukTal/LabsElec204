@@ -1,0 +1,28 @@
+Command line:
+   Lab2SimQ3_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  9041
+
+Sat Mar 19 12:21:18 2022
+
+
+ Elaboration Time: 0.1875 sec
+
+ Current Memory Usage: 5669.81 Meg
+
+ Total Signals          : 24
+ Total Nets             : 25
+ Total Signal Drivers   : 19
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 18
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 386
+
+ Total Simulation Time: 0.21875 sec
+
+ Current Memory Usage: 5196.23 Meg
+
+Sat Mar 19 12:22:33 2022
+

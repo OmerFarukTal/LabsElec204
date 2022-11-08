@@ -1,0 +1,5 @@
+work	"ALU.vhd"
+work	"ArithmeticUnit.vhd"
+work	"FourBitALU.vhd"
+work	"FullAdder.vhd"
+work	"LogicUnit.vhd"

@@ -1,0 +1,35 @@
+V3 19
+FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/ALU.vhd" 2022/04/22.07:36:36 P.20131013
+EN work/ALU 1650974194 FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/ALU/Behavioral 1650974195 \
+      FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/ALU.vhd" EN work/ALU 1650974194 \
+      CP ArithmeticUnit CP LogicUnit
+FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/ArithmeticUnit.vhd" 2022/04/22.07:36:42 P.20131013
+EN work/ArithmeticUnit 1650974190 \
+      FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/ArithmeticUnit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/ArithmeticUnit/Behavioral 1650974191 \
+      FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/ArithmeticUnit.vhd" \
+      EN work/ArithmeticUnit 1650974190 CP FullAdder
+FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FourBitALU.vhd" 2022/04/26.14:55:41 P.20131013
+EN work/FourBitALU 1650974196 \
+      FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FourBitALU.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/FourBitALU/Behavioral 1650974197 \
+      FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FourBitALU.vhd" \
+      EN work/FourBitALU 1650974196 CP ALU
+FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FullAdder.vhd" 2022/04/22.07:36:46 P.20131013
+EN work/FullAdder 1650974188 \
+      FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FullAdder.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/FullAdder/Behavioral 1650974189 \
+      FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FullAdder.vhd" \
+      EN work/FullAdder 1650974188
+FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.vhd" 2022/04/26.14:56:18 P.20131013
+EN work/LogicUnit 1650974192 \
+      FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/LogicUnit/Behavioral 1650974193 \
+      FL "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.vhd" \
+      EN work/LogicUnit 1650974192

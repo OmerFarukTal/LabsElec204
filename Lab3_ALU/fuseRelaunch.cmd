@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FourBitTest_isim_beh.exe" -prj "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/FourBitTest_beh.prj" "work.FourBitTest" 

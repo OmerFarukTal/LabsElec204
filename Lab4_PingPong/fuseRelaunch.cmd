@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/otal19/Desktop/Teq/Lab4/Lab4Sim_isim_beh.exe" -prj "C:/Users/otal19/Desktop/Teq/Lab4/Lab4Sim_beh.prj" "work.Lab4Sim" 

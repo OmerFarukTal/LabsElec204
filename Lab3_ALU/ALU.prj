@@ -1,0 +1,4 @@
+vhdl work "FullAdder.vhd"
+vhdl work "LogicUnit.vhd"
+vhdl work "ArithmeticUnit.vhd"
+vhdl work "ALU.vhd"

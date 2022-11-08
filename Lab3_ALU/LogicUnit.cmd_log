@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.xst" -ofn "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.syr" 
+xst -intstyle ise -ifn "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.xst" -ofn "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.syr" 
+xst -intstyle ise -ifn "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.xst" -ofn "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.syr" 
+xst -intstyle ise -ifn "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.xst" -ofn "C:/Users/otal19/Desktop/Elec 204 Lab3/Lab3/LogicUnit.syr" 

@@ -1,0 +1,6 @@
+vhdl isim_temp "FullAdder.vhd"
+vhdl isim_temp "LogicUnit.vhd"
+vhdl isim_temp "ArithmeticUnit.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "FourBitALU.vhd"
+vhdl isim_temp "FourBitTest.vhd"

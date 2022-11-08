@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/otal19/Desktop/Lab 2/comparator/Lab2SimQ3_isim_beh.exe" -prj "C:/Users/otal19/Desktop/Lab 2/comparator/Lab2SimQ3_beh.prj" "work.Lab2SimQ3" 

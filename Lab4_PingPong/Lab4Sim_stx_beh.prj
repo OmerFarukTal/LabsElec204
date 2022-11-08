@@ -1,0 +1,2 @@
+vhdl isim_temp "Lab4Code.vhd"
+vhdl isim_temp "Lab4Sim.vhd"
